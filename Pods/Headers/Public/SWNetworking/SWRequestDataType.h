@@ -1,0 +1,1 @@
+../../../SWNetworking/SWNetworking/ResponseType/SWRequestDataType.h

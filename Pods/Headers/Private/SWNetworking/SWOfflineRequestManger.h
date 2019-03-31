@@ -1,0 +1,1 @@
+../../../SWNetworking/SWNetworking/SWRequest/SWOfflineRequestManger.h

@@ -1,0 +1,36 @@
+PODS:
+  - SWNetworking (1.4.3):
+    - SWNetworking/File (= 1.4.3)
+    - SWNetworking/Reachability (= 1.4.3)
+    - SWNetworking/ResponseType (= 1.4.3)
+    - SWNetworking/SWRequest (= 1.4.3)
+    - "SWNetworking/UIKit+SWNetworking (= 1.4.3)"
+  - SWNetworking/File (1.4.3)
+  - SWNetworking/Reachability (1.4.3)
+  - SWNetworking/ResponseType (1.4.3):
+    - SWNetworking/File
+  - SWNetworking/SWRequest (1.4.3):
+    - SWNetworking/File
+    - SWNetworking/Reachability
+    - SWNetworking/ResponseType
+  - "SWNetworking/UIKit+SWNetworking (1.4.3)":
+    - SWNetworking/ResponseType
+    - SWNetworking/SWRequest
+  - ZMJGanttChart (0.1.4)
+
+DEPENDENCIES:
+  - SWNetworking
+  - ZMJGanttChart
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SWNetworking
+    - ZMJGanttChart
+
+SPEC CHECKSUMS:
+  SWNetworking: 49c0e101b34b7fe668e2eb30c9caabd1aee62f31
+  ZMJGanttChart: 5e2c8c2e1431954e408b990b8a580e6d03affbf7
+
+PODFILE CHECKSUM: 81cb3b1752642e64457b986f2cf4933522c5dcd7
+
+COCOAPODS: 1.5.3
